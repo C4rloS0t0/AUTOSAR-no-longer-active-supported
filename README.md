@@ -2,7 +2,8 @@
 # https://github.com/autoas/ssas-public
 
 # as
-automotive software and its tool-chain
+This repo is no longer active supported, a new project is started and source code opened at
+https://github.com/C4rloS0t0/AUTOSAR-4.4-Learning-Project
 
 [![Build Status](https://travis-ci.org/autoas/as.svg?branch=master)](https://travis-ci.org/autoas/as)
 
